@@ -1,0 +1,18 @@
+Nombre,Concurso,Puntos,Dolares Ganados,Agenda,Reloj,Premio extra
+Juan Lopéz,1,60,Sacó más de 50 puntos: 1200,Si,Si,Otra vez será
+Sara Garcia,2,150,Sacó más de 50 puntos: 3000,,No,Viaje a París
+Juan Lopéz,2,120,Sacó más de 50 puntos: 2400,,No,Viaje a París
+Rebecca Ferrer,3,30,No sacó más de 50 puntos:600,,No,Otra vez será
+Luis Atienza,1,90,Sacó más de 50 puntos: 1800,Si,Si,Otra vez será
+Rebecca Ferrer,2,120,Sacó más de 50 puntos: 120,,No,Viaje a París
+Ramón Guitiérrez,3,60,Sacó más de 50 puntos: 1200,,No,Otra vez será
+$ POR PUNTO,20,,,,,
+Más de 50,4,,,,,
+50 o menos,2,,,,,
+,,,,,,
+Nombre,Juan López,Sara García,Juan López,Rebeca Ferrer,Luis Atienza,Rebeca Ferrer
+Concurso,1,2,2,3,1,2
+Puntos,60,150,120,30,90,120
+€ ganados,0,1500,1500,0,1500,1500
+Premio extra,Reloj,Agenda,Agenda,Reloj,Reloj,Agenda
+Valor premio extra,60$,180$,180$,60$,60$,180$
